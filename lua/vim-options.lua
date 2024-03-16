@@ -3,6 +3,7 @@ vim.cmd("set tabstop=4")
 vim.cmd("set softtabstop=4")
 vim.cmd("set shiftwidth=4")
 vim.cmd("set number")
+vim.cmd("set completeopt=menu")
 vim.g.mapleader = " "
 
 vim.cmd [[
@@ -15,6 +16,3 @@ vim.cmd [[
    ]]
 
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
-
-vim.keymap.set('n', '<leader>e', ':Neotree reveal filesystem left <CR>')
-vim.keymap.set('n', '<leader>j', ':below split<CR>:term<CR>')
