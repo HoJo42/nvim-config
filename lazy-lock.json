@@ -1,15 +1,11 @@
 {
-  "LuaSnip": { "branch": "master", "commit": "ea7d7ea510c641c4f15042becd27f35b3e5b3c2b" },
-  "cmp-nvim-lsp": { "branch": "main", "commit": "44b16d11215dce86f253ce0c30949813c0a90765" },
-  "kanagawa.nvim": { "branch": "master", "commit": "0a24e504a3a278849ad0aef31cd6dd24c73ca3db" },
-  "lazy.nvim": { "branch": "main", "commit": "2a9354c7d2368d78cbd5575a51a2af5bd8a6ad01" },
-  "lsp-zero.nvim": { "branch": "v2.x", "commit": "73b6ab549f3f374b2917227bfec5c27f2caf1b82" },
-  "mason-lspconfig.nvim": { "branch": "main", "commit": "20fd7f50f34b59031a7c3bbc2c207f4f60037628" },
-  "mason.nvim": { "branch": "main", "commit": "d66c60e17dd6fd8165194b1d14d21f7eb2c1697a" },
-  "nvim-cmp": { "branch": "main", "commit": "5dce1b778b85c717f6614e3f4da45e9f19f54435" },
-  "nvim-lspconfig": { "branch": "master", "commit": "5efcd06dc9c45c1654d3f84655fd4ee2f5328f3b" },
-  "nvim-treesitter": { "branch": "master", "commit": "15d327fe6324d8269451131ec34ad4f2a8ef1e01" },
-  "plenary.nvim": { "branch": "master", "commit": "0232372b906f275f76ac42029eba25eaf95e76b9" },
-  "ripgrep": { "branch": "master", "commit": "d2a409f89f1eb8e3ad3990aeb1fff944289534f2" },
-  "telescope.nvim": { "branch": "master", "commit": "776b509f80dd49d8205b9b0d94485568236d1192" }
+  "everforest": { "branch": "master", "commit": "0bfb22009fcb948d7aa23c4b5451cbc6b441e76d" },
+  "harpoon": { "branch": "harpoon2", "commit": "0378a6c428a0bed6a2781d459d7943843f374bce" },
+  "lazy.nvim": { "branch": "main", "commit": "1d451b4c2ce957da05e2123ce1a001804fc7ea96" },
+  "mason-lspconfig.nvim": { "branch": "main", "commit": "37a336b653f8594df75c827ed589f1c91d91ff6c" },
+  "mason.nvim": { "branch": "main", "commit": "f96a31855fa8aea55599cea412fe611b85a874ed" },
+  "nvim-lspconfig": { "branch": "master", "commit": "cf97d2485fc3f6d4df1b79a3ea183e24c272215e" },
+  "nvim-treesitter": { "branch": "master", "commit": "465840f8c14126e5193d777bbff94036eb875bd5" },
+  "plenary.nvim": { "branch": "master", "commit": "a3e3bc82a3f95c5ed0d7201546d5d2c19b20d683" },
+  "telescope.nvim": { "branch": "master", "commit": "d90956833d7c27e73c621a61f20b29fdb7122709" }
 }

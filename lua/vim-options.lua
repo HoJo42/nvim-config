@@ -5,6 +5,7 @@ vim.cmd("set shiftwidth=4")
 vim.cmd("set number")
 vim.cmd("set completeopt=menu")
 vim.g.mapleader = " "
+vim.keymap.set("n", "<M-v>", "<C-v>")
 
 vim.cmd [[
     set shell=powershell.exe

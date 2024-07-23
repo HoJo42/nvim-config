@@ -10,7 +10,6 @@ return {
         config = function()
             require("mason-lspconfig").setup({
                 ensure_installed = {
-                    "lua_ls",
                     "jdtls"
                 }
             })
@@ -20,8 +19,8 @@ return {
         "neovim/nvim-lspconfig",
         config = function()
             local lspconfig = require("lspconfig")
-            lspconfig.lua_ls.setup({})
             lspconfig.jdtls.setup({})
+            lspconfig.typos_lsp.setup({})
         end
     }
 }
